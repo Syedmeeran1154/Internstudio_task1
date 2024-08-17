@@ -1,1 +1,2 @@
-# Internstudio_task1
+# Calculator
+Task 1 of Internstudio internship
